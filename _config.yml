@@ -11,14 +11,14 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Materials researcher and data scientist working at the intersection of materials characterisation, computer vision, and machine learning..
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  Deepak Kumar &copy; 2025. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> 
+  with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.===
+
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://Deep7285.github.io # the base hostname & protocol for your site
+url: https://deep7285.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
 
 # Social links — fill only what you have
@@ -30,7 +30,7 @@ back_to_top: true # set to false to disable the back to top button
 
 # Publications page
 scholar_userid:       # leave blank if no Google Scholar profile yet
-Orcid: https://orcid.org/0009-0003-0160-0630
+Orcid: 0009-0003-0160-0630
 
 # CV
 cv_pdf: Deepak_Kumar_CV.pdf   # we'll add this file later
@@ -39,9 +39,6 @@ github:
   user: Deep7285
   repo_count: 6
 
-# Footer
-footer_text: >
-  Deepak Kumar &copy; 2025
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
@@ -298,8 +295,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Kumar]
+  first_name: [Deepak]
 
   style: apa
   locale: en
