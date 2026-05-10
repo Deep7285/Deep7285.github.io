@@ -19,7 +19,7 @@ news: false
 latest_posts: false
 ---
 
-I work at the intersection of **materials science and machine learning** — building models
+I work at the intersection of **materials science and machine learning**, building models
 and tools that make physical sense of microstructural data, process–property relationships,
 and extreme climate events.
 

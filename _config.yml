@@ -11,8 +11,7 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Materials researcher and data scientist working at the intersection of materials characterisation, computer vision, and machine learning..
 footer_text: >
-  Deepak Kumar &copy; 2025. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> 
-  with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.===
+  Deepak Kumar &copy;
 
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
