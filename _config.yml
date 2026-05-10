@@ -7,11 +7,12 @@ first_name: Deepak
 middle_name:
 last_name: Kumar
 contact_note: >
-  I 'm reachable at deepak72855@gmail.com.
+  I'm reachable at deepak72855@gmail.com.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Materials researcher and data scientist working at the intersection of materials characterisation, computer vision, and machine learning..
 footer_text: >
-  Deepak Kumar &copy;
+  &copy; 2025 Deepak Kumar. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>
+  with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -32,7 +33,7 @@ scholar_userid: # leave blank if no Google Scholar profile yet
 Orcid: 0009-0003-0160-0630
 
 # CV
-cv_pdf: Deepak_Kumar_CV.pdf # we'll add this file later
+cv_pdf: Deepak_Kumar_CV.pdf 
 # Repo cards on about page (shows your pinned repos) — personal preference
 github:
   user: Deep7285
