@@ -1,6 +1,9 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # Social links shown on the about page
-cv_pdf: /assets/pdf/Deepak_Kumar_CV.pdf
+
 email: deepak72855@gmail.com
+github_username: Deep7285
+linkedin_username: deepak8439
 orcid_id: 0009-0003-0160-0630
+cv_pdf: /assets/pdf/Deepak_Kumar_CV.pdf
