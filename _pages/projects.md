@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: My current research spans materials characterisation, mechanical properties analysis, Computer Vison and physics-informed ML modelling .
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [research, side-projects]
 horizontal: false
 ---
 
