@@ -16,9 +16,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-research",
+          title: "research",
+          description: "My current research spans materials characterisation, mechanical properties analysis, Computer Vison and physics-informed ML modelling .",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
