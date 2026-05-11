@@ -33,7 +33,7 @@ scholar_userid: # leave blank if no Google Scholar profile yet
 Orcid: 0009-0003-0160-0630
 
 # CV
-cv_pdf: Deepak_Kumar_CV.pdf 
+cv_pdf: Deepak_Kumar_CV.pdf
 # Repo cards on about page (shows your pinned repos) — personal preference
 github:
   user: Deep7285
