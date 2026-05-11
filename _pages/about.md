@@ -7,7 +7,7 @@ subtitle: >
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false
   more_info: >
     <p>📍 New Delhi, India</p>
@@ -42,6 +42,6 @@ using physics-aware ML/DL approaches.
 microstructural analysis · physics-informed modelling · materials property prediction ·
 AI-accelerated materials discovery for energy applications
 
-I am actively looking for **PhD opportunities** in computational materials science —
+I am actively looking for **research opportunities** in computational materials science —
 particularly groups working on AI for materials discovery, microstructure–property
 modelling, or computer vision applied to materials characterisation.
