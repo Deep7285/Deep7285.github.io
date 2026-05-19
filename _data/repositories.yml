@@ -2,15 +2,9 @@ github_users:
   - Deep7285
 
 github_repos:
-  - user: Deep7285
-    repo: PoroDet
-  - user: Deep7285
-    repo: Climate-code-files
-  - user: Deep7285
-    repo: Physics-Informed-Surrogate-Modelling-for-Dissimilar-FSW
-  - user: Deep7285
-    repo: human-response-matching-app
-  - user: Deep7285
-    repo: data-extractor
-  - user: Deep7285
-    repo: GeoCalc
+  - Deep7285/PoroDet
+  - Deep7285/Climate-code-files
+  - Deep7285/Physics-Informed-Surrogate-Modelling-for-Dissimilar-FSW
+  - Deep7285/human-response-matching-app
+  - Deep7285/data-extractor
+  - Deep7285/GeoCalc
