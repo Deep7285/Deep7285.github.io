@@ -14,7 +14,7 @@ climate patterns. Detecting and forecasting these events reliably requires worki
 high-dimensional, spatio-temporal oceanographic data — a problem where standard statistical
 approaches quickly run into their limits.
 
-This project, carried out as a Data Scientist at **IIT Delhi**, applies machine learning
+This project, carried out as a Data Scientist at IIT Delhi, applies machine learning
 and deep learning to sea surface temperature (SST) datasets to identify the physical
 signatures of MHW onset, propagation, and intensification.
 
@@ -34,7 +34,7 @@ not to treat it as a black-box prediction problem.
 
 #### Approach
 
-- Spatiotemporal analysis of SST anomalies using the **MHW detection framework**
+- Spatiotemporal analysis of SST anomalies using the MHW detection framework
   (Hobday et al. definition) to identify and characterise historical MHW events
 - Feature engineering grounded in the physical drivers of MHW formation
   (mixed layer depth, wind stress curl, heat flux anomalies)
