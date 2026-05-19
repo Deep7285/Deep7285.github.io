@@ -6,7 +6,7 @@ description: Tools and explorations outside my core research — built to solve 
 nav: true
 nav_order: 5
 display_categories: [side-projects]
-horizontal: false
+horizontal: true
 ---
 <!-- pages/side_projects.md -->
 <div class="projects">
