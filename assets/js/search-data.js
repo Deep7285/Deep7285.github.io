@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-side-projects",
+          title: "side projects",
+          description: "Tools and explorations outside my core research — built to solve specific problems or learn something end-to-end.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/side-projects/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -428,7 +435,7 @@ ninja.data = [{
               window.location.href = "/projects/climate_forcast_ai/";
             },},{id: "projects-friction-stir-welding-of-aluminium-alloys-and-advanced-steel-for-lightweight-sustainable-automotive-and-aerospace-applications",
           title: 'Friction Stir Welding of Aluminium Alloys and Advanced Steel for Lightweight, Sustainable Automotive...',
-          description: "Gaussian Process Regression surrogate model with Bayesian optimisation for navigating the process–structure–property design space of dissimilar Friction Stir Welding.",
+          description: "The project focused on optimizing the process parameter window for maximum joint strength by analysing the microstructural and mechanical properties of joint.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/fsw_dissimilar_alloy/";
             },},{id: "projects-physics-informed-surrogate-modelling-for-dissimilar-fsw",
