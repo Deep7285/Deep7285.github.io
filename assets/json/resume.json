@@ -1,221 +1,407 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Deepak Kumar",
+    "label": "Materials Researcher & Data Scientist",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "deepak72855@gmail.com",
+    "phone": "+91-8439373413",
+    "url": "https://deep7285.github.io",
+    "summary": "Materials researcher and data scientist working at the intersection of materials characterisation, computer vision, and machine learning. MS by Research from IIT Madras (2025) with a thesis on friction stir welding of dissimilar materials. Currently a Data Scientist at IIT Delhi, applying physics-informed ML to high-dimensional spatio-temporal ocean data. Open-source contributor and active collaborator with Oxford Nano Analysis Group, University of Oxford.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "New Delhi",
+      "countryCode": "IN",
+      "region": "Delhi"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Deep7285",
+        "url": "https://github.com/Deep7285"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "deepak8439",
+        "url": "https://www.linkedin.com/in/deepak8439"
+      },
+      {
+        "network": "ORCID",
+        "username": "0009-0003-0160-0630",
+        "url": "https://orcid.org/0009-0003-0160-0630"
+      }
+    ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "Indian Institute of Technology Delhi",
+      "position": "Data Scientist",
+      "location": "New Delhi, India",
+      "startDate": "August-2025",
+      "endDate": "",
+      "summary": "Physics-informed ML and deep learning on high-dimensional spatio-temporal ocean data for extreme marine heatwave event detection and forecasting.",
+      "highlights": [
+        "Designing ConvLSTM and temporal CNN architectures for spatiotemporal modelling on gridded ocean reanalysis data",
+        "Physics-informed feature engineering — encoding domain knowledge of mixed layer dynamics and air-sea heat flux anomalies as model constraints",
+        "Statistical characterisation of extreme event distributions before predictive modelling",
+        "Evaluating model outputs against known physical drivers to ensure physical consistency alongside statistical accuracy"
+      ]
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
+      "name": "Brane Enterprises Pvt. Ltd.",
+      "position": "Associate Solution Leader — Machine Learning Engineer",
+      "location": "Hyderabad, India",
+      "startDate": "February-2024",
+      "endDate": "February-2025",
+      "summary": "ML engineering within a 50-person team, building deep learning solutions for e-commerce and retail clients.",
+      "highlights": [
+        "Developed deep learning models (TensorFlow, PyTorch) for product price optimisation and customer segmentation — contributed to 15% increase in sales for e-commerce clients",
+        "Built analytics pipelines using Tableau and Apache Superset — 10% improvement in sales forecast accuracy for retail clients",
+        "Collaborated on model evaluation, feature engineering, and deployment workflows alongside senior engineers"
+      ]
     },
     {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": []
+      "name": "IIT Madras — MEMS Lab, Dept. of Metallurgical & Materials Engineering",
+      "position": "Teaching Assistant",
+      "location": "Chennai, India",
+      "startDate": "February-2021",
+      "endDate": "June-2024",
+      "summary": "Teaching Assistant for two courses under Prof. Ranjit Bauri.",
+      "highlights": [
+        "MM2010 Principles of Physical Metallurgy (Aug 2022 – Nov 2023): led weekly lab sessions for a batch of 70 students",
+        "NOC24-MM14 Theory and Practice of Non-Destructive Testing (Dec 2023 – Mar 2024): assisted in course delivery and examinations"
+      ]
     },
     {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
-      "summary": "",
-      "highlights": []
+      "name": "OSN Consulting & Associates",
+      "position": "Technical Consultant",
+      "location": "Uttar Pradesh, India",
+      "startDate": "October-2019",
+      "endDate": "December-2020",
+      "summary": "Technical and financial valuation of large-scale plant and machinery projects across manufacturing and infrastructure sectors.",
+      "highlights": [
+        "Conducted technical and financial valuations (INR 150–200 Cr range) supporting strategic procurement and investment decisions",
+        "Developed rigorous cross-functional technical reports bridging engineering and finance teams"
+      ]
     },
     {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
-      "highlights": []
+      "name": "Dynamic Intra-tech Pvt. Ltd.",
+      "position": "Assistant Engineer",
+      "location": "Kota, Rajasthan, India",
+      "startDate": "July-2018",
+      "endDate": "September-2019",
+      "summary": "Production management in steel bridge fabrication.",
+      "highlights": [
+        "Managed production team in steel bridge fabrication; optimised machining parameters through data-driven analysis of production records",
+        "Achieved 9–10% improvement in production throughput"
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "IIT Madras — CDC-R (Career Development Cell, Research)",
+      "location": "Chennai, India",
+      "position": "Student Member",
+      "startDate": "February-2021",
+      "endDate": "May-2022",
+      "summary": "Supported research scholars at IIT Madras with career planning, industry connections, and professional development initiatives.",
+      "highlights": []
+    },
+    {
+      "organization": "35th IMUN Conference",
+      "location": "India",
+      "position": "Delegate — Country of Niger",
+      "date": "December-2020",
+      "summary": "Represented the country of Niger on the topic of gender equality at the International Model United Nations conference.",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
-      "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
+      "institution": "Indian Institute of Technology Madras",
+      "location": "Chennai, India",
+      "url": "https://www.iitm.ac.in/",
+      "area": "Metallurgical and Materials Engineering",
+      "studyType": "MS by Research",
+      "startDate": "February-2021",
+      "endDate": "July-2025",
+      "score": "8.6 / 10",
+      "courses": [
+        "Texture in Materials",
+        "Modern Techniques of Material Characterization",
+        "X-Ray Diffraction Techniques",
+        "Physical Metallurgy",
+        "Mechanical Behaviour of Materials",
+        "Advanced Welding Techniques",
+        "Aluminium Alloys and their Composites",
+        "Sheet Metal Forming"
+      ],
+      "highlights": [
+        "Thesis: Friction Stir Welding of Dissimilar AA6082-T6 and DP780 Steel Joints for Lightweight Automotive Applications — Guide: Prof. Ranjit Bauri",
+        "Presented at THERMEC'23 International Conference, University of Technology Vienna, Austria",
+        "3rd place — Amalgam National Symposium, IIT Madras (2024)"
+      ]
     },
     {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
-      "score": "",
+      "institution": "BBDNITM — Dr. APJ Abdul Kalam Technical University",
+      "location": "Uttar Pradesh, India",
+      "url": "",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor of Technology",
+      "startDate": "August-2013",
+      "endDate": "May-2017",
+      "score": "8.1 / 10",
       "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
+      "highlights": [
+        "Final year project: Automatic Kickstand Retrieval System in Bike to Prevent Accidents — used AISI 4130 Steel and Titanium Grade 5 alloy"
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "GATE Scholarship — 94.2 Percentile",
+      "date": "February-2018",
+      "awarder": "Government of India",
+      "url": "",
+      "summary": "Awarded GATE (Graduate Aptitude Test in Engineering) scholarship with 94.2 percentile score in Mechanical Engineering, enabling postgraduate study at IIT Madras."
     },
     {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
-      "summary": ""
+      "title": "3rd Place — Research Presentation, Amalgam National Symposium",
+      "date": "2024-03-01",
+      "awarder": "IIT Madras",
+      "url": "",
+      "summary": "Secured 3rd place in research presentation at the Amalgam National Symposium 2, IIT Madras."
+    },
+    {
+      "title": "Top 10% — Google Analytics Workshop",
+      "date": "2023-01-01",
+      "awarder": "IIT Madras",
+      "url": "",
+      "summary": "Finished among the top 10% of participants at the Google Analytics workshop held at IIT Madras."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
+      "name": "THERMEC'23 International Conference — Oral Presentation",
+      "date": "2023-07-01",
+      "issuer": "University of Technology Vienna, Austria",
+      "url": "",
+      "icon": "fa-solid fa-flask"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
+      "name": "SPARC International Workshop on Aluminum Alloys",
+      "date": "2023-01-01",
+      "issuer": "IIT Madras & McMaster University",
+      "url": "",
+      "icon": "fa-solid fa-atom"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
+      "name": "Symbiosis AI/ML Conference and Workshop",
+      "date": "2023-01-01",
+      "issuer": "IIT Madras",
+      "url": "",
+      "icon": "fa-solid fa-brain"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Microstructure and Mechanical Properties of Friction Stir Welded AA6082 Aluminium Alloy and Dual-Phase 780 Steel Dissimilar Joints",
+      "publisher": "Journal of Manufacturing Processes",
+      "releaseDate": "2026",
+      "url": "",
+      "summary": "1st author · Under review. Investigates FSW of AA6082-T6 and DP780 steel lap joints; correlates process parameters with microstructure, IMC formation, and mechanical performance using SEM, EBSD, XRD, and nano-indentation."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Microstructural Evolution and Corrosion Kinetics of X2 Zr-Nb Alloy in Simulated PWR and BWR Environments",
+      "publisher": "ASTM STP Proceedings",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "2nd author · Accepted for publication. Studies dissolved oxygen effects on corrosion of Zr-Nb nuclear cladding in simulated reactor environments using TEM and spectroscopy. Collaboration with Oxford Nano Analysis Group."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "PoroDet: A Python Package for Nano-porosity Detection in TEM Images",
+      "publisher": "Journal of Open Source Software (JOSS)",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.5281/zenodo.19342741",
+      "summary": "Co-author · Submitted. Open-source Python package for automated segmentation of nano-porosities in Fresnel-contrast TEM images using U-Net CNN. Developed with Oxford Nano Analysis Group."
+    },
+    {
+      "name": "Comparative Performance of Classical and Deep Learning Architectures for Nano-porosity Detection in TEM Images",
+      "publisher": "",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "1st author · Under preparation. Benchmarks Random Forest, U-Net, and Vision Transformer (Trans-UNet) approaches for nano-porosity segmentation; validates with ROC-AUC, precision-recall, and confusion matrices."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Machine Learning & Deep Learning",
+      "level": "",
+      "icon": "fa-solid fa-brain",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "PyTorch",
+        "TensorFlow / Keras",
+        "scikit-learn",
+        "Computer Vision",
+        "ConvLSTM",
+        "U-Net",
+        "Vision Transformers (ViT)",
+        "Gaussian Process Regression",
+        "Bayesian Optimisation"
+      ]
+    },
+    {
+      "name": "Data Science & Scientific Computing",
+      "level": "",
+      "icon": "fa-solid fa-chart-line",
+      "keywords": [
+        "Python",
+        "NumPy",
+        "Pandas",
+        "Matplotlib",
+        "Seaborn",
+        "Xarray",
+        "SciPy",
+        "Jupyter",
+        "Streamlit",
+        "Google Colab"
+      ]
+    },
+    {
+      "name": "Materials Characterisation",
+      "level": "",
+      "icon": "fa-solid fa-microscope",
+      "keywords": [
+        "Scanning Electron Microscopy (SEM)",
+        "Electron Backscatter Diffraction (EBSD)",
+        "Energy Dispersive X-ray Spectroscopy (EDS)",
+        "X-ray Diffraction (XRD)",
+        "Transmission Electron Microscopy (TEM)",
+        "Optical Microscopy",
+        "Nano-indentation",
+        "Friction Stir Welding",
+        "Failure Analysis"
+      ]
+    },
+    {
+      "name": "Software & Dev Tools",
+      "level": "",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Git / GitHub",
+        "VS Code",
+        "OriginPro",
+        "TSL-OIM",
+        "Xpert-Highscore",
+        "ImageJ",
+        "Abaqus",
+        "Tableau",
+        "Apache Superset"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "Hindi",
+      "fluency": "Native",
       "icon": ""
     },
     {
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Elementary (A1)",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Backpacking & Travel",
+      "icon": "fa-solid fa-map",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Cultural exploration",
+        "Long-distance travel"
+      ]
+    },
+    {
+      "name": "Cycling",
+      "icon": "fa-solid fa-person-biking",
+      "keywords": [
+        "Long-distance rides",
+        "IIT Madras Pedal Storm",
+        "PAN IIT cycling events — podium finishes"
+      ]
+    },
+    {
+      "name": "Culinary",
+      "icon": "fa-solid fa-utensils",
+      "keywords": [
+        "Cooking",
+        "Exploring cuisines"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "name": "Prof. Ranjit Bauri",
+      "icon": "fa-solid fa-user-tie",
+      "reference": "Associate Professor, Dept. of Metallurgical & Materials Engineering, IIT Madras. MS thesis supervisor. Available upon request."
     },
     {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "name": "Prof. Sergio Lozano-Perez",
+      "icon": "fa-solid fa-user-tie",
+      "reference": "Professor, Oxford Nano Analysis Group, University of Oxford. Research collaboration supervisor. Available upon request."
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
+      "name": "PoroDet",
+      "summary": "Open-source Python package for automated nano-porosity segmentation in TEM images using U-Net CNN. Submitted to JOSS; published on Zenodo.",
+      "highlights": [
+        "U-Net architecture achieving 92% feature detection accuracy",
+        "Designed for limited training data using augmentation",
+        "JOSS submission · Zenodo DOI: 10.5281/zenodo.19342741"
+      ],
+      "startDate": "October-2024",
+      "endDate": "",
+      "url": "https://github.com/Deep7285/PoroDet"
+    },
+    {
+      "name": "Physics-Informed Surrogate Modelling for Dissimilar FSW",
+      "summary": "GPR surrogate model with Bayesian optimisation for the process–structure–property design space of dissimilar friction stir welding.",
+      "highlights": [
+        "Gaussian Process Regression with uncertainty quantification",
+        "Bayesian optimisation for intelligent experiment selection",
+        "Physics-informed process–structure–property chain"
+      ],
+      "startDate": "2026-02-01",
+      "endDate": "",
+      "url": "https://github.com/Deep7285/Physics-Informed-Surrogate-Modelling-for-Dissimilar-FSW"
+    },
+    {
+      "name": "Marine Heatwave Detection & Forecasting",
+      "summary": "Physics-aware deep learning for spatiotemporal detection and forecasting of extreme marine heatwave events in the North Indian Ocean.",
+      "highlights": [
+        "ConvLSTM and temporal CNN architectures",
+        "Physics-informed feature engineering from ocean reanalysis data",
+        "Spatiotemporal modelling of extreme event distributions"
+      ],
+      "startDate": "August-2025",
+      "endDate": "",
+      "url": "https://github.com/Deep7285/Climate-code-files"
+    },
+    {
+      "name": "Human Mentor–Mentee Matching System",
+      "summary": "NLP-based alumni mentor–mentee matching pipeline for IIT Madras alumni network. Live deployment on Streamlit.",
+      "highlights": [
+        "Sentence transformer embeddings for semantic profile matching",
+        "Cosine similarity ranking with configurable priority weights",
+        "Live at hrmiitmaa.streamlit.app"
+      ],
+      "startDate": "August-2025",
+      "endDate": "",
+      "url": "https://github.com/Deep7285/human-response-matching-app"
     }
   ]
 }
