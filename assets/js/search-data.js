@@ -423,7 +423,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-marine-heatwave-detection-amp-forecasting",
+          section: "News",},{id: "projects-ai-data-extractor",
+          title: 'AI Data Extractor',
+          description: "Web app pipeline combining GenAI and OCR to extract structured data from unstructured documents and scientific figures.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ai_data_extractor/";
+            },},{id: "projects-marine-heatwave-detection-amp-forecasting",
           title: 'Marine Heatwave Detection &amp;amp; Forecasting',
           description: "Physics-aware ML/DL for detecting and forecasting extreme marine heatwave events in the North Indian Ocean using high-dimensional spatio-temporal sea surface temperature data.",
           section: "Projects",handler: () => {
