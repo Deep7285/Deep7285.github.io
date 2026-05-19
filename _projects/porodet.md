@@ -8,6 +8,8 @@ category: research
 related_publications: true
 ---
 
+{% include figure.liquid path="assets/img/porosity_detection.png" alt="TEM image detection" class="img-fluid rounded z-depth-1" %}
+
 Nuclear reactor cladding materials degrade over time through nano-scale porosity formation.
 Detecting and quantifying these features manually in transmission electron microscopy (TEM)
 images is time-consuming and operator-dependent. This project automates that process.

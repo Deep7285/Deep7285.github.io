@@ -8,6 +8,8 @@ category: research
 related_publications: true
 ---
 
+{% include figure.liquid path="assets/img/gpr_results.png" alt="GPR surrogate model prediction results" class="img-fluid rounded z-depth-1" %}
+
 Friction stir welding (FSW) of dissimilar materials — particularly aluminium alloys and
 high-strength steels — involves a large process parameter space (rotation speed, traverse
 speed, plunge depth, tool geometry) with non-linear, coupled effects on the resulting

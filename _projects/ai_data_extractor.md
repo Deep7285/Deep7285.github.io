@@ -28,7 +28,8 @@ Built a Full-stack web-based Gen-AI tool for a financial company to automate dat
 - Uses a GenAI model to interpret and reformat extracted content into structured output
   (tables, key-value pairs, numerical data)
 - Returns machine-readable output ready for further analysis
-- limited free access
+- limited free access  
+
 #### Why it's useful
 
 For researchers dealing with legacy data locked in paper figures, or anyone trying to

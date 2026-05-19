@@ -12,6 +12,12 @@ A lightweight, browser-based calculator for computing areas and volumes of stand
 geometric shapes. Built as a practical exercise in building and deploying a clean,
 usable tool end-to-end — from Python logic to a live public interface via Hugging Face Spaces.
 
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/geocalc.png" alt="geocalc page" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+
 #### What it does
 
 - Computes surface area and volume for standard 3D geometries

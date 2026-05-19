@@ -23,7 +23,7 @@ This research focuses on friction stir welding (FSW) of dissimilar materials wit
 
 #### Skill Used
 
-`Materials Characterization: SEM, TEM, XRD, Optical Microscope` . ` Mechanical Characterizations: UTM, Micro-hrdenss, Nano-indentation,` . `Instruments: FSW CNC, Abacus, AutoCad`
+`Materials Characterization: SEM, TEM, XRD, Optical Microscopy` . `Mechanical Characterizations: UTM, Micro-hrdenss, Nano-indentation` . `Instruments: FSW CNC, Abacus, AutoCad`
 
 #### Links
 

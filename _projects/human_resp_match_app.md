@@ -18,6 +18,12 @@ This project builds a matching pipeline for the **IIT Madras alumni mentoring pr
 developed in collaboration with a team of senior alumni. My role covers the matching
 algorithm and automation end of the system.
 
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/human_match_app.png" alt="human response match app" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+
 #### The problem
 
 Given a set of mentee profiles (goals, background, areas seeking guidance) and mentor

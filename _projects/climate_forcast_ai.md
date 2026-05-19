@@ -8,6 +8,8 @@ category: research
 related_publications: false
 ---
 
+{% include figure.liquid path="assets/img/convo_lstm.png" alt="ConvLSTM model for marine heatwave detection and forecasting" class="img-fluid rounded z-depth-1" %}
+
 Extreme marine heatwave (MHW) events are becoming more frequent and intense in the North
 Indian Ocean, with significant consequences for marine ecosystems, fisheries, and regional
 climate patterns. Detecting and forecasting these events reliably requires working with
