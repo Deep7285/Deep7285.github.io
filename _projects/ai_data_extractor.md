@@ -10,9 +10,16 @@ related_publications: false
 
 Built a Full-stack web-based Gen-AI tool for a financial company to automate data extraction from a variety of complex documents. Users can upload PDFs, images, or DOCX files; an AI-powered pipeline extracts key fields (details, tax breakdown, etc.) and saves the results to a consolidated spreadsheet. The system processes data in memory and only holds it temporarily, and files are not stored to help protect privacy. The site is fully responsive across mobile, tablet, and desktop. The project emphasizes cost-effectiveness, with ongoing work on new features and further cost optimization. 
 
-**Application Previews:**  
-![Data Extractor UI](/assets/img/data_extractor_1.png)  
-![Extracted Results View](/assets/img/data_extractor_2.png)  
+**Application Previews:**
+
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/data_extractor_1.png" alt="Data Extractor UI" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/data_extractor_2.png" alt="Extracted Results View" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
 
 #### What it does
 
