@@ -443,6 +443,11 @@ ninja.data = [{
           description: "Interactive geometry calculator for areas and volumes of standard 3D shapes — deployed on Hugging Face Spaces.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/geocalc/";
+            },},{id: "projects-human-mentor-mentee-matching-system",
+          title: 'Human Mentor–Mentee Matching System',
+          description: "NLP-based matching system for pairing alumni mentors with mentees based on holistic life experience — built for the IIT Madras alumni mentoring programme.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/human_resp_match_app/";
             },},{id: "projects-porodet",
           title: 'PoroDet',
           description: "Open-source Python package for automated nano-porosity detection in TEM images — developed in collaboration with Oxford Nano Analysis, University of Oxford.",
