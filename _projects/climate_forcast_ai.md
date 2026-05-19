@@ -3,7 +3,7 @@ layout: page
 title: Marine Heatwave Detection & Forecasting
 description: Physics-aware ML/DL for detecting and forecasting extreme marine heatwave events in the North Indian Ocean using high-dimensional spatio-temporal sea surface temperature data.
 img: assets/img/convo_lstm.png
-importance: 2
+importance: 3
 category: research
 related_publications: false
 ---
