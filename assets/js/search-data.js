@@ -433,6 +433,11 @@ ninja.data = [{
           description: "Physics-aware ML/DL for detecting and forecasting extreme marine heatwave events in the North Indian Ocean using high-dimensional spatio-temporal sea surface temperature data.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/climate_forcast_ai/";
+            },},{id: "projects-friction-stir-welding-of-aluminium-alloys-and-advanced-steel-for-lightweight-sustainable-automotive-and-aerospace-applications",
+          title: 'Friction Stir Welding of Aluminium Alloys and Advanced Steel for Lightweight, Sustainable Automotive...',
+          description: "Gaussian Process Regression surrogate model with Bayesian optimisation for navigating the process–structure–property design space of dissimilar Friction Stir Welding.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/fsw_dissimilar_alloy/";
             },},{id: "projects-physics-informed-surrogate-modelling-for-dissimilar-fsw",
           title: 'Physics-Informed Surrogate Modelling for Dissimilar FSW',
           description: "Gaussian Process Regression surrogate model with Bayesian optimisation for navigating the process–structure–property design space of dissimilar Friction Stir Welding.",
