@@ -1,14 +1,16 @@
 github_users:
-  - torvalds
-  - alshedivat
-
-repo_description_lines_max: 2
+  - Deep7285
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - user: Deep7285
+    repo: PoroDet
+  - user: Deep7285
+    repo: Climate-code-files
+  - user: Deep7285
+    repo: Physics-Informed-Surrogate-Modelling-for-Dissimilar-FSW
+  - user: Deep7285
+    repo: human-response-matching-app
+  - user: Deep7285
+    repo: data-extractor
+  - user: Deep7285
+    repo: GeoCalc
