@@ -423,7 +423,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-porodet",
+          section: "News",},{id: "projects-geocalc",
+          title: 'GeoCalc',
+          description: "Interactive geometry calculator for areas and volumes of standard 3D shapes — deployed on Hugging Face Spaces.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/geocalc/";
+            },},{id: "projects-porodet",
           title: 'PoroDet',
           description: "Open-source Python package for automated nano-porosity detection in TEM images — developed in collaboration with Oxford Nano Analysis, University of Oxford.",
           section: "Projects",handler: () => {
