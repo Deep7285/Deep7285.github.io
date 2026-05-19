@@ -44,4 +44,4 @@ structure in the FSW process space.
 #### Links
 
 - GitHub: [Deep7285/Physics-Informed-Surrogate-Modelling-for-Dissimilar-FSW](https://github.com/Deep7285/Physics-Informed-Surrogate-Modelling-for-Dissimilar-FSW)
-- Related paper: {% cite kumar2026fsw %}
+- Related paper: {% cite kumar2026pinn %}
