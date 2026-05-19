@@ -5,7 +5,7 @@ permalink: /projects/
 description: My current research spans materials characterisation, mechanical properties analysis, Computer Vison and physics-informed ML modelling .
 nav: true
 nav_order: 3
-display_categories: [research, side-projects]
+display_categories: [research]
 horizontal: false
 ---
 

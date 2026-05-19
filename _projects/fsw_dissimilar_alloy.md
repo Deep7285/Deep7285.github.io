@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Friction Stir Welding of Aluminium Alloys and Advanced Steel for Lightweight, Sustainable Automotive and Aerospace Applications
-description: Gaussian Process Regression surrogate model with Bayesian optimisation for navigating the process–structure–property design space of dissimilar Friction Stir Welding.
+description: The project focused on optimizing the process parameter window for maximum joint strength by analysing the microstructural and mechanical properties of joint.
 img: assets/img/fsw_1.png
 importance: 2
 category: research
