@@ -8,8 +8,6 @@ category: research
 related_publications: true
 ---
 
-{% include figure.liquid path="assets/img/porosity_detection.png" alt="TEM image detection" class="img-fluid rounded z-depth-1" %}
-
 Nuclear reactor cladding materials degrade over time through nano-scale porosity formation.
 Detecting and quantifying these features manually in transmission electron microscopy (TEM)
 images is time-consuming and operator-dependent. This project automates that process.
@@ -18,6 +16,15 @@ In collaboration with [Rajat Nama](https://nanoanalysis.web.ox.ac.uk/people/raja
 at Oxford Nano Analysis (University of Oxford), we developed **PoroDet** — an end-to-end
 Python workflow for supervised segmentation of nano-porosities in Fresnel-contrast TEM images
 of Zr-alloy nuclear cladding.
+
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/porosity_detection.png" alt="TEM image detection" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/porodet_histogram.png" alt="porosity histogram" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
 
 #### What the package does
 

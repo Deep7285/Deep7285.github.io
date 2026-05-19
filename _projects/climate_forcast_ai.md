@@ -8,8 +8,6 @@ category: research
 related_publications: false
 ---
 
-{% include figure.liquid path="assets/img/convo_lstm.png" alt="ConvLSTM model for marine heatwave detection and forecasting" class="img-fluid rounded z-depth-1" %}
-
 Extreme marine heatwave (MHW) events are becoming more frequent and intense in the North
 Indian Ocean, with significant consequences for marine ecosystems, fisheries, and regional
 climate patterns. Detecting and forecasting these events reliably requires working with
@@ -19,6 +17,12 @@ approaches quickly run into their limits.
 This project, carried out as a Data Scientist at **IIT Delhi**, applies machine learning
 and deep learning to sea surface temperature (SST) datasets to identify the physical
 signatures of MHW onset, propagation, and intensification.
+
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/convo_lstm.png" alt="Convo-LSTM for Climate forecasting" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
 
 #### The core challenge
 
