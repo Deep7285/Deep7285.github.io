@@ -8,8 +8,6 @@ category: research
 related_publications: true
 ---
 
-{% include figure.liquid path="assets/img/gpr_results.png" alt="GPR surrogate model prediction results" class="img-fluid rounded z-depth-1" %}
-
 Friction stir welding (FSW) of dissimilar materials — particularly aluminium alloys and
 high-strength steels — involves a large process parameter space (rotation speed, traverse
 speed, plunge depth, tool geometry) with non-linear, coupled effects on the resulting
@@ -21,6 +19,12 @@ and use it to guide experiments intelligently.
 This project develops a **physics-informed surrogate modelling framework** for dissimilar
 FSW, grounded in the process-structure-property chain established from experimental thesis
 work on AA6082-T6 / DP780 steel joints.
+
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/gpr_results.png" alt="gpr suggroage modeeling" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
 
 #### Why Gaussian Process Regression
 
