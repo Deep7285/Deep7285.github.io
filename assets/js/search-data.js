@@ -30,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/experience/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+        },{id: "nav-side-projects",
+          title: "side projects",
+          description: "Tools and explorations outside my core research — built to solve specific problems or learn something end-to-end.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/repositories/";
+            window.location.href = "/side-projects/";
           },
         },{id: "nav-cv",
           title: "CV",
@@ -44,12 +44,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-side-projects",
-          title: "side projects",
-          description: "Tools and explorations outside my core research — built to solve specific problems or learn something end-to-end.",
+        },{id: "nav-repositories",
+          title: "repositories",
+          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/side-projects/";
+            window.location.href = "/repositories/";
           },
         },{id: "post-a-post-with-plotly-js",
         
