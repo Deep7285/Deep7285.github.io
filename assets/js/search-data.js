@@ -423,7 +423,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-geocalc",
+          section: "News",},{id: "projects-marine-heatwave-detection-amp-forecasting",
+          title: 'Marine Heatwave Detection &amp;amp; Forecasting',
+          description: "Physics-aware ML/DL for detecting and forecasting extreme marine heatwave events in the North Indian Ocean using high-dimensional spatio-temporal sea surface temperature data.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/climate_forcast_ai/";
+            },},{id: "projects-geocalc",
           title: 'GeoCalc',
           description: "Interactive geometry calculator for areas and volumes of standard 3D shapes — deployed on Hugging Face Spaces.",
           section: "Projects",handler: () => {
